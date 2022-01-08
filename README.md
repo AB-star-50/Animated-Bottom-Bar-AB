@@ -46,19 +46,18 @@ or Ivy:
 </dependency>
 ```
 
-## For Usage Docs [Visit Wiki][wikiLink]
+## For Usage Docs 
 
 ## Migration from V1 to V2
 1. BadgeItem has been changed to TextBadgeItem
-2. New ShapeBadgeItem implementation changed. [check this page for new api usage](https://github.com/Ashok-Varma/BottomNavigation/wiki/Badges)
+2. New ShapeBadgeItem implementation changed. 
 3. hideText replaced with new modes. To use those mode should be set to MODE_FIXED_NO_TITLE / MODE_SHIFTING_NO_TITLE 
 
 ## License
 
 ```
 BottomNavigation library for Android
-Copyright (c) 2016 Ashok Varma (http://ashokvarma.me/).
-
+Copyright (c) 2022 ABAB
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
