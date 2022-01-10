@@ -3,7 +3,7 @@
 
 # BottomNavigation
 
-**get sample apk from [Google Play Store][googlePlayStoreLink]**
+
 
 <img src="https://raw.githubusercontent.com/Ashok-Varma/BottomNavigation/master/all.gif" width="300" height="550" />
 
