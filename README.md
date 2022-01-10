@@ -9,7 +9,7 @@
 
 ## What is this component about?
 
-This component that mimics the new [Material Design Bottom Navigation pattern][googlePage].
+This component that mimics the new customized bottom bar with animations.
 
 **(currently under active development, expect to see new releases almost daily)**
 
